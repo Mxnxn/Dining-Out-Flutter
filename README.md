@@ -5,7 +5,8 @@
 This Application is in halfway.
 
 #### Screenshots :
-(https://github.com/Mxnxn/Dining-Out-Flutter/blob/master/Screenshot_20190719-173353.jpg)
+<img src="https://github.com/Mxnxn/Dining-Out-Flutter/blob/master/Screenshot_20190719-173353.jpg" width=250px/>      <img src="https://github.com/Mxnxn/Dining-Out-Flutter/blob/master/Screenshot_20190719-173356.jpg" width=250px/>      <img src="https://github.com/Mxnxn/Dining-Out-Flutter/blob/master/Screenshot_20190719-173409.jpg" width=250px/>
+
 
 ### Description :
 
